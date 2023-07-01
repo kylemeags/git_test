@@ -1,2 +1,2 @@
 Here's some text
-Hello, World!
+Hello, World!Testing git commit
